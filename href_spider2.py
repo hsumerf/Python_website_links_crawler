@@ -44,3 +44,6 @@ with open("zaid.txt","w") as links_file:
     crawl(target_url)
     print(target_urls_list)
     print(exclude_url)
+
+
+
