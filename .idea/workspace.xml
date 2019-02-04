@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="39bcfd37-66f4-4da7-81b6-32ea8235f1d4" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/href_spider.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/href_spider.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/href_spider3.py" beforeDir="false" afterPath="$PROJECT_DIR$/href_spider3.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,41 +13,16 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="href_spider0.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/href_spider0.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="23" selection-start-line="23" selection-end-line="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="href_spider1.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/href_spider1.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="31" selection-start-line="3" selection-end-line="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="href_spider2.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/href_spider2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" selection-start-line="16" selection-end-line="16" />
-              <folding>
-                <element signature="e#22#37#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="href_spider3.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="href_spider3.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/href_spider3.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="href_spider2.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/building-blocks/href_spider2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
+            <state relative-caret-position="238">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
             </state>
           </provider>
         </entry>
@@ -73,18 +45,15 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/href_spider1.py" root0="FORCE_HIGHLIGHTING" />
-  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/href_spider0.py" />
         <option value="$PROJECT_DIR$/href_spider3.ipynb" />
-        <option value="$PROJECT_DIR$/href_spider3.py" />
         <option value="$PROJECT_DIR$/href_spider1.py" />
         <option value="$PROJECT_DIR$/zaid.txt" />
         <option value="$PROJECT_DIR$/href_spider2.py" />
+        <option value="$PROJECT_DIR$/href_spider3.py" />
       </list>
     </option>
   </component>
@@ -106,6 +75,11 @@
             <path>
               <item name="href_spider" type="b2602c69:ProjectViewProjectNode" />
               <item name="href_spider" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="href_spider" type="b2602c69:ProjectViewProjectNode" />
+              <item name="href_spider" type="462c0819:PsiDirectoryNode" />
+              <item name="building-blocks" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -223,6 +197,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24917382" />
       <window_info anchor="bottom" id="Version Control" order="1" />
@@ -413,13 +388,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/href_spider3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/href_spider2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
@@ -429,6 +397,16 @@
           </folding>
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/building-blocks/href_spider2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/href_spider3.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
   <component name="masterDetails">
